@@ -1,0 +1,40 @@
+_repo: Further-Chronicles-of-Avonlea_5340
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montgomery, L. M. (Lucy Maud)
+    aliases:
+    - Montgomery, Lucy Maud
+    - MacDonald, Lucy Maud Montgomery
+    birthdate: 1874
+    deathdate: 1942
+    gutenberg_agent_id: '36'
+    url: http://www.gutenberg.org/2009/agents/36
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Maud_Montgomery
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5340'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Country life -- Fiction'
+- !lcsh 'Prince Edward Island -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Shirley, Anne (Fictitious character) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Orphans -- Fiction'
+- GITenberg
+tableOfContents: Aunt Cynthia's Persian cat -- The materializing of Cecil -- Her father's
+  daughter -- Jane's baby -- The dream-child -- The brother who failed -- The return
+  of Hester -- The little brown book of Miss Emily -- Sara's way -- The son of his
+  mother -- The education of Betty -- In her selfless mood -- The conscience case
+  of David Bell -- Only a common fellow -- Tannis of the Flats.
+title: Further Chronicles of Avonlea
+url: http://www.gutenberg.org/ebooks/5340
